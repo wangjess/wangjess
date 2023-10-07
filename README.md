@@ -13,6 +13,4 @@
 
 
 ## Connect with Me
-
-
 <!-- This is a special README.md because the repository name matches my actual GitHub account name. So it will appear on my PROFILE! -->
