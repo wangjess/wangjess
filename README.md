@@ -1,4 +1,4 @@
-## About me 👋
+## About Me 👋
 
 - 👀 I’m interested in new techonlogies
 - 🌱 I’m currently collaborating with The Oppia Foundation
@@ -10,3 +10,9 @@
   <img height="180em" width = "340em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wangjess&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+## Connect with Me
+[<img align="left" alt="linkdin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[linkedin]: https://www.linkedin.com/in/wangjess/
+
+<!-- This is a special README.md because the repository name matches my actual GitHub account name. So it will appear on my PROFILE! -->
