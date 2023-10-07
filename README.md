@@ -5,7 +5,9 @@
 
 ## Jessica's GitHub Stats
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wangjess&label=Profile%20views&color=32CD32&style=flat" alt="wangjess" /> </p>
+
 ![](https://komarev.com/ghpvc/?username=wangjess)
+
 ![Jessica's GitHub stats](https://github-readme-stats.vercel.app/api?username=wangjess&show_icons=true&theme=vue)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wangjess&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
