@@ -12,4 +12,6 @@
 
 
 ## Connect with Me
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/wangjess/)
+
 <!-- This is a special README.md because the repository name matches my actual GitHub account name. So it will appear on my PROFILE! -->
