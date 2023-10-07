@@ -4,7 +4,7 @@
 - 🌱 I’m currently collaborating with The Oppia Foundation
 
 ## Jessica's GitHub Stats
-![Jessica's GitHub stats](https://github-readme-stats.vercel.app/api?username=wangjess&show_icons=true&theme=radical)
+![Jessica's GitHub stats](https://github-readme-stats.vercel.app/api?username=wangjess&show_icons=true&theme=vue)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wangjess&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
