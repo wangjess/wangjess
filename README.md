@@ -11,6 +11,9 @@
 </a>
 </p>
 
+
 ## Connect with Me
+  ![Jessica's GitHub stats](https://github-readme-stats.vercel.app/api?username=wangjess&show_icons=true&theme=radical)
+
 
 <!-- This is a special README.md because the repository name matches my actual GitHub account name. So it will appear on my PROFILE! -->
