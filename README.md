@@ -4,12 +4,8 @@
 - 🌱 I’m currently collaborating with The Oppia Foundation
 
 ## Jessica's GitHub Stats
-<p align="left">
-<a href="https://github.com/Lawful2002">
-  <img height="180em" src="![Jessica's GitHub stats](https://github-readme-stats.vercel.app/api?username=wangjess&show_icons=true&theme=radical)"/>
-  <img height="180em" width = "340em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wangjess&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+![Jessica's GitHub stats](https://github-readme-stats.vercel.app/api?username=wangjess&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wangjess&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Connect with Me
