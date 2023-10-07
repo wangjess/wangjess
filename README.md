@@ -8,8 +8,7 @@
 
 ![Jessica's GitHub stats](https://github-readme-stats.vercel.app/api?username=wangjess&show_icons=true&theme=vue)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wangjess&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wangjess&layout=compact)
 
 ## Connect with Me
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/wangjess/)
