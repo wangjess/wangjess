@@ -6,7 +6,7 @@
 ## Jessica's GitHub Stats
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wangjess&label=Profile%20views&color=32CD32&style=flat" alt="wangjess" /> </p>
 
-![](https://komarev.com/ghpvc/?username=wangjess)
+![hello](https://komarev.com/ghpvc/?username=wangjess)
 
 ![Jessica's GitHub stats](https://github-readme-stats.vercel.app/api?username=wangjess&show_icons=true&theme=vue)
 
