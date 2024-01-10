@@ -1,7 +1,7 @@
 ## About Me 👋
 
 - 👀 I’m interested in new techonlogies
-- 🌱 I’m currently collaborating with The Oppia Foundation
+- 🌱 Teaching myself Alexa Skills Kit. 
 
 ## Jessica's GitHub Stats
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wangjess&label=Profile%20views&color=32CD32&style=flat" alt="wangjess" /> </p>
