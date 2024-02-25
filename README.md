@@ -1,6 +1,6 @@
 ## About Me 👋
 
-- 👀 I’m interested in new techonlogies
+- 👀 I’m interested in new technologies
 
 ## Jessica's GitHub Stats
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wangjess&label=Profile%20views&color=32CD32&style=flat" alt="wangjess" /> </p>
